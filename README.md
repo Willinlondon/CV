@@ -18,7 +18,8 @@ Despite only starting my career in development now, I am by no means a stranger 
 
 ## Work Experience
 
-**Shooters Sports & Grill** (late 2014 - late 2020), Salou, Spain  
+**Shooters Sports & Grill** (late 2014 - late 2020), Salou, Spain
+
 _Owner_
 
 - Managing the pub (expanded into a restaurant in 2018), as well as the external responsbilities that came with it. I personally would usually rotate among all of the roles in my pub as and when they were needed, these were: 
@@ -32,11 +33,13 @@ _Owner_
 - Accounting, the majority of the company accounts and payrolls I managed internally.
 
 **Robin Hood Pub** (early 2013 - late 2014), Salou - Spain
+
 _Manager_
 
 - General front of house manager.
 
 **Various other bar/restaurant roles** (2009 - 2013), various locations
+
 _Bar/Waiter_
 
 - Various seasonal jobs in Salou - Spain, Soldeu - Andorra and London.
