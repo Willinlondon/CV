@@ -1,6 +1,6 @@
 ## William Day
 
-I am a driven, confident, aspiring junior software developer and recent graduate of [Makers Academy](https://makers.tech/), a coding bootcamp. I am very keen to get into the industry and embark on a creative and engaging career. I have spent the last 19 years on and off living in Spain, near Barcelona, and due to Covid related reasons, have moved to London to seek a new start.
+I am a driven, confident, aspiring junior software developer and recent graduate of [Makers Academy](https://makers.tech/), a coding bootcamp. I am very keen to get into the software development industry and embark on a creative and engaging career. I have spent the last 19 years on and off living in Spain, near Barcelona, and due to Covid related reasons, have moved to London to seek a new start.
 
 My background has always been in hospitality, that's where I started, and I continued progressing to the point of owning my own pub and restaurant.
 
