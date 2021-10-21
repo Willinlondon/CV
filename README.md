@@ -1,6 +1,6 @@
 ## William Day
 
-I am a confident, aspiring junior software developer and recent graduate of [Makers Academy](https://makers.tech/), a coding bootcamp. I am very keen to get into the industry and embark on a passionate and engaging career. I have spent the last 19 years living in Spain, near Barcelona, and due to Covid related reasons, have moved to London to seek a new start.
+I am a driven, confident, aspiring junior software developer and recent graduate of [Makers Academy](https://makers.tech/), a coding bootcamp. I am very keen to get into the industry and embark on a creative and engaging career. I have spent the last 19 years on and off living in Spain, near Barcelona, and due to Covid related reasons, have moved to London to seek a new start.
 
 My background has always been in hospitality, that's where I started, and I continued progressing to the point of owning my own pub and restaurant.
 
@@ -18,7 +18,7 @@ Despite only starting my career in development now, I am by no means a stranger 
 
 ## Work Experience
 
-**Shooters Sports & Grill** (late 2014 - late 2020)  
+**Shooters Sports & Grill** (late 2014 - late 2020), Salou, Spain  
 _Owner_
 
 - Managing the pub (expanded into a restaurant in 2018), as well as the external responsbilities that came with it. I personally would usually rotate among all of the roles in my pub as and when they were needed, these were: 
@@ -27,65 +27,41 @@ _Owner_
 - Floor, this was waitering for the restaurant side of the business, again ensuring all guests were looked after for.
 - Security, often I would have to fill in or add to the door or internal security in the bar.
 - Betting, the pub had a small betting booth addon, which was mainly focused on horse racing, but would take all sports bets.
-- Tech Support, the pub boasted an impressive TV and sound system which was installed and maintained by myself.
+- Tech Support, the pub boasted an impressive TV/streaming and sound system which was installed and maintained by myself.
+- People, managing a team of approximately 12 staff during high season.
 - Accounting, the majority of the company accounts and payrolls I managed internally.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Robin Hood Pub** (early 2013 - late 2014), Salou - Spain
+_Manager_
 
-- Any experience relevent to software development
+- General front of house manager.
+
+**Various other bar/restaurant roles** (2009 - 2013), various locations
+_Bar/Waiter_
+
+- Various seasonal jobs in Salou - Spain, Soldeu - Andorra and London.
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- Communication
+- Time Managment
+- Problem-solving/Logical thinking
+- Maths
+- Active Listening
+- Leadership/Management Skills
+- Excellent Memory
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (June 2021 - October 2021)
+- Languages learnt: Ruby, Javascript, HTML, CSS (independant learning included _some_ Python)
+- Tools and Frameworks learnt: Rails, Sinatra, Capybara, Node, Express, Postgres, Active Record, Rspec, Jasmin, Git
+- Process' learnt: Agile Development, Test Driven Development, Object Orientated Programming, Domain Driven Design
 
-#### Your University / College (start_date to end_date)
+#### Harlow College (September 2007 - July 2009)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+- BTEC National Diploma in Media Studies
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+My hobbies involve gaming (usually sandbox style building games or strategy games), football, exercising and cooking.
