@@ -18,6 +18,13 @@ Despite only starting my career in development now, I am by no means a stranger 
 
 ## Work Experience
 
+**RJK Security** (November 2020 - June 2020), Enfield, London  
+_Purchaser & Logistics_
+
+- Managing and replenishing stock.
+- Negociating bulk deals.
+- Delivery driving for small and large construction sites.
+
 **Shooters Sports & Grill** (late 2014 - late 2020), Salou, Spain  
 _Owner_
 
