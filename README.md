@@ -29,14 +29,13 @@ _Purchaser & Logistics_
 _Owner_
 
 - Managing the pub (expanded into a restaurant in 2018), as well as the external responsbilities that came with it. I personally would usually rotate among all of the roles in my pub as and when they were needed, these were: 
-- Bar, this included managing all my drinks stock, counting tills, and ensuring the bar was a friendly lively environment.
-- Kitchen, designing a menu and ensuring my busy small kitchen was up to the task of maintaining the quality, and doing some cooking myself.
-- Floor, this was waitering for the restaurant side of the business, again ensuring all guests were looked after for.
-- Security, often I would have to fill in or add to the door or internal security in the bar.
-- Betting, the pub had a small betting booth addon, which was mainly focused on horse racing, but would take all sports bets.
-- Tech Support, the pub boasted an impressive TV/streaming and sound system which was installed and maintained by myself.
-- People, managing a team of approximately 12 staff during high season.
-- Accounting, the majority of the company accounts and payrolls I managed internally.
+- Bartending
+- Kitchen
+- Floor/Waitering
+- Security/Access Control
+- Tech and Hardware Support/Management
+- People Management
+- Accounting
 
 **Robin Hood Pub** (early 2013 - late 2014), Salou - Spain  
 _Manager_
@@ -50,13 +49,13 @@ _Bar/Waiter_
 
 ## Skills
 
-- Communication
-- Time Managment
-- Problem-solving/Logical thinking
-- Maths
-- Active Listening
-- Leadership/Management Skills
-- Excellent Memory
+- Communication: I find many problems in business or a work environment are caused by a lack of this, therefore I take great care in ensuring that I have not only delivered clearly, but also understood any feedback or assignment, and will take time to ensure everything is understood.
+- Time Management: Using time efficiently was key to running my business as it was something I was always limited on.
+- Problem-solving/Logical thinking: Planning ahead and strategizing were key factors in some of the logistics involved when running the pub business.
+- Maths: Much of my business accounting was done internally, this meant I could put my sharp numeric mind to good use.
+- Active Listening: I was always receptive and attentive to feedback, which often involved ways in which I could improve my business and service.
+- Leadership/Management Skills: During high season I would often have around 12 staff on complicated rotas and long hours needing to be supervised.
+- Excellent Memory: I have a very good photographic memory which I use a daily basis. For example in a stockroom I can often remember exactly what is there if I stocked it myself.
 
 ## Education
 
